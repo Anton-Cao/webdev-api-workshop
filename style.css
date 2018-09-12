@@ -1,0 +1,18 @@
+#container {
+  text-align: center;
+  padding-top: 10%;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+button {
+  padding: 10px;
+  border-radius: 2px;
+  box-shadow: 1px 1px #aaaaaa;
+}
+
+button:hover {
+  background-color: #68ffc5;
+}
