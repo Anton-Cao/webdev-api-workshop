@@ -16,3 +16,7 @@ button {
 button:hover {
   background-color: #68ffc5;
 }
+
+button:focus {
+  outline: none;
+}
